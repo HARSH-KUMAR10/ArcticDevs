@@ -1,0 +1,1 @@
+<img src="./pp_2_min.jpg"><img src="arctic_devs_logo.jfif">
