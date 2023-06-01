@@ -51,4 +51,6 @@ Process of hiring:
 <h6>
 <li>I was associated with creating the database and the backend for the application and integrate it with the frontend already provided.</li>
 <li>I integrated 3rd party API for PDF extractor and video analytics extractor with the backend and then integrated to the frontend.</li>
+ <li>I worked on Zoom API call and Zoom cloud platform to design a pattern for starting a zoom call with recording and then saving the recording to the cloud which will be later used for video analysis.</li>
+ <li>I worked on payment gateway integrations which included: Razorpay, Paytm and Paypal for better availability and reach.</li>
 </h6>
