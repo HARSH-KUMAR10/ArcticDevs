@@ -54,3 +54,35 @@ Process of hiring:
  <li>I worked on Zoom API call and Zoom cloud platform to design a pattern for starting a zoom call with recording and then saving the recording to the cloud which will be later used for video analysis.</li>
  <li>I worked on payment gateway integrations which included: Razorpay, Paytm and Paypal for better availability and reach.</li>
 </h6>
+
+
+<h3>Price Admin</h3>
+
+<h6>
+It is a react application that helps you to regulate you expenses properly and manage your money.
+  
+<h5>
+  - <a href="https://github.com/HARSH-KUMAR10/price-admin-frontend" target="_blank">personal-github-frontend</a>
+  </h5>
+</h6>
+
+<h6>
+<li>I was majorly involved in the frontend development of the application and the integration of API</li>
+ <li>Frontend was done using ReactJS, Bootstrap while for API integration we using axios package</li>
+</h6>
+
+
+<h3>QCT</h3>
+
+<h6>
+It is a react application.
+  
+<h5>
+  - <a href="https://github.com/HARSH-KUMAR10/QCT" target="_blank">personal-github-frontend</a>
+  </h5>
+</h6>
+
+<h6>
+<li>I was majorly involved in the frontend development of the application and the integration of API</li>
+ <li>Frontend was done using ReactJS, Bootstrap while for API integration we using axios package</li>
+</h6>
